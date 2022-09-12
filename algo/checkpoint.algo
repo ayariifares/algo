@@ -1,0 +1,22 @@
+ALGORITHM algorithm_name
+VAR str=STRING;
+VAR somme= 1 : number
+VAR jomla=number
+    VAR goblin=number
+BEGIN
+  WHILE(str <>".") DO
+lire str
+IF (str=" ") THEN
+ somme=somme+1
+END_IF
+  END_WHILE
+jomla=str.length()
+WHILE (str<>".") DO
+    if(str="a"ou str="i" ou str="e" ou srt="o" ou str="y" ou str="u")
+    goblin= goblin+1
+    end if
+END_WHILE
+  ecrire ("voici le nombre de mot"somme)
+  ecrire ("voici le nombre de voyelles"goblin)
+  ecrire ("voici la longeur de la chaine"jomla )
+END
